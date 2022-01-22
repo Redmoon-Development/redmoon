@@ -1,0 +1,3 @@
+[submodule "Assets/redmoon-depInjector"]
+	path = Assets/redmoon-depInjector
+	url = https://github.com/crazyjackel/redmoon-depInjector.git
