@@ -4,3 +4,6 @@
 [submodule "Assets/Plugins/redmoon-reactiveKit"]
 	path = Assets/Plugins/redmoon-reactiveKit
 	url = https://github.com/crazyjackel/redmoon-reactiveKit.git
+[submodule "Assets/Plugins/redmoon-smartables"]
+	path = Assets/Plugins/redmoon-smartables
+	url = https://github.com/crazyjackel/redmoon-smartables.git
