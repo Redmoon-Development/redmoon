@@ -3,7 +3,7 @@
 Goals for Redmoon:
 
 - Everything is Modularized, Packages should be seperation of concerns, bloat should be extra packages. Bloat is defined as not fitting a very specific implementation pattern.
-- Everything has native Injection Support (Things should be injectable, you should be able to safely edit behavior by adding a singular line of code in a particular place.)
+- Everything has native Injection Support (Things should be injectable, you should be able to safely edit behavior by adding a singular line of code in a particular place. Should minimize number of lines neccessary to change behavior.)
 - Should be Usable and Tested.
 - Should have Examples for Usage that shows working intended behavior.
 - Should have documentation to avoid known development design traps.
