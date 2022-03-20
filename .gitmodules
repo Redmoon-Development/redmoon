@@ -7,3 +7,9 @@
 [submodule "Assets/Plugins/redmoon-smartables"]
 	path = Assets/Plugins/redmoon-smartables
 	url = https://github.com/crazyjackel/redmoon-smartables.git
+[submodule "Assets/Plugins/redmoon-stateMachines"]
+	path = Assets/Plugins/redmoon-stateMachines
+	url = https://github.com/crazyjackel/redmoon-stateMachines.git
+[submodule "Assets/Plugins/redmoon-QoL"]
+	path = Assets/Plugins/redmoon-QoL
+	url = https://github.com/crazyjackel/redmoon-QoL.git
