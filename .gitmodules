@@ -13,3 +13,6 @@
 [submodule "Assets/Plugins/redmoon-QoL"]
 	path = Assets/Plugins/redmoon-QoL
 	url = https://github.com/crazyjackel/redmoon-QoL.git
+[submodule "Assets/Plugins/Demo"]
+	path = Assets/Plugins/Demo
+	url = https://github.com/crazyjackel/Demo.git

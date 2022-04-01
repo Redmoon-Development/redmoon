@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.bewildered.core": "https://github.com/MechWarrior99/Bewildered-Core.git",
+    "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git",
     "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts",
     "com.sandolkakosdigital.unitypackagemanagerutilities": "https://github.com/sandolkakos/unity-package-manager-utilities.git",
     "com.unity.collab-proxy": "1.9.0",
