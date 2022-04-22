@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "com.bewildered.core": {
-      "version": "https://github.com/MechWarrior99/Bewildered-Core.git",
+      "version": "https://github.com/MechWarrior99/Bewildered-Core.git#v1.1.1",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "899758331e3d3251d3f9f4557b77b53cfa6826bd"
+      "hash": "924aa8d15209cdf3d08d6017c2dc1c5362908813"
     },
     "com.coffee.upm-git-extension": {
       "version": "https://github.com/mob-sakai/UpmGitExtension.git",
